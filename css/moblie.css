@@ -1,0 +1,54 @@
+.logo{
+    float: none;
+    text-align: center;
+  
+}
+
+.mainmenu{
+    float: none;
+    /* border: #444 solid; */
+}
+
+.mainmenu li{
+    float: none;
+    text-align: center;
+    border: #444 solid;
+    border: 1px 0;
+}
+
+.side-img-l{
+    display: none;
+}
+
+.ctn-r{
+    width: 100%;
+}
+
+.box{
+    float: none;
+    width: 100%;
+    height: 100%
+}
+
+.lt-cnt{
+    width: 100%;
+    float: none;
+}
+
+.lt-cnt h2{
+    text-align: center;
+}
+
+.rt-img{
+    
+    float: none;
+    width: 100%;
+    padding: 10px;
+}
+
+.box-con{
+    width: 100%;
+    height: 100%;
+    float: none;
+    border: #444 solid;
+}
